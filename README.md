@@ -16,12 +16,12 @@ dotty/<br>
 └── apps/                 <-- Where your runnable programs live<br>
     └── main.cpp          <-- The "demo" that tests your code
 
-## How to run Dotty
+## How to run
 - Open terminal
 - Navigate to `dotty/` folder
 - Run commands:
-  - mkdir build
-  - cd build
-  - cmake ..
-  - cmake --build .
-  - ./dotty_app
+  - `mkdir build`
+  - `cd build`
+  - `cmake ..`
+  - `cmake --build .`
+  - `./dotty_app`
