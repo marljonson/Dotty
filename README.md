@@ -24,4 +24,4 @@ dotty/<br>
   - cd build
   - cmake ..
   - cmake --build .
-  - ./dotty_app2
+  - ./dotty_app
